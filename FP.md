@@ -840,3 +840,5 @@ https://jrsinclair.com/articles/2019/what-i-wish-someone-had-explained-about-fun
 http://www.tomharding.me/fantasy-land/
 
 https://github.com/fantasyland/fantasy-land
+
+https://github.com/MostlyAdequate/mostly-adequate-guide
